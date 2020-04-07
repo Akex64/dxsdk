@@ -3,7 +3,7 @@
 //  Copyright (C) Microsoft Corporation.  All Rights Reserved.
 //
 //  File:       d3dx9.h
-//  Content:    D3DX utility library
+//  Content:    D3DX utility librarys
 //
 //////////////////////////////////////////////////////////////////////////////
 
